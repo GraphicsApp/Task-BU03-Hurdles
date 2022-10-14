@@ -7,7 +7,7 @@ Bouncer klettert in diesem Beispielprogramm über drei Hürden. Zu Beginn befind
 
 ## Relevante Bezüge zum OOP-Kurs
 
-Diese Demo kann als erstes Beispiel für ein selbst-geschriebenes Programm verwendet werden. Aufbauend auf einem minimalen Set an Befehlen wird der Startvorgang und die sequenzielle Abarbeitung der einzelnen Befehle innerhalb eines JAVA-Programms demonstriert.
+Anhand dieses Beispiels kann die systematische Analyse und Lösung eines ersten, komplexeren Problems demonstriert werden. Zur korrekten Lösung der Aufgabenstellung muss das Überklettern der jeweils unterschiedlich hohen Hindernisse durch einen passenden, allgemeinen Algorithmus umgesetzt werden. Diese Teillösung muss dann wiederholt ausgeführt werden, um das Gesamtproblem zu lösen. Das währende der Problemanalyse bzw. der Dekomposition des Ablaufs in einzelne Methoden gewonnene Prozesswissen kann zur (vorgehenden) Beschreibung von Vor- und Nachbedingungen für die ausgelagerten Methoden verwendet werden.
 
 - Struktureller Aufbau und Verwendung eines Bouncer-Programms
 - Verwendung von Schleifen (`for`) zur kontrollierten Wiederholung von Befehlen
